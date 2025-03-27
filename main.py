@@ -1,1 +1,2 @@
-print("raphael cordeiro")
+nome = input("Digiite seu nome: ")
+print(nome)
